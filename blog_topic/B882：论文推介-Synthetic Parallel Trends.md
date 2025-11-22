@@ -1,4 +1,4 @@
-# B882：论文推介-Synthetic Parallel Trends
+# OK-B882-陈瑾：论文推介-Synthetic Parallel Trends
 
 Liu, Y. (2025). Synthetic Parallel Trends (Version 1). arXiv. [Link](https://doi.org/10.48550/arXiv.2511.05870) (rep), [PDF](https://arxiv.org/pdf/2511.05870.pdf), [Google](<https://scholar.google.com/scholar?q=Synthetic Parallel Trends (Version 1)>).
 
